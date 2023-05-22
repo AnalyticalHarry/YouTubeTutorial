@@ -23,4 +23,6 @@ Join our vibrant community of learners and unlock new horizons of expertise!
 #QuantitativeAnalysis #Finance #Investment #TradingModels #RiskAssessment 
 #YouTube #Vlog #DataAnalysis #QuantitativeFinance #InvestmentDecisions #YouTubeShorts
 #AnalyticalSkills #QuantitativeAnalyst #pythonprogramming #python #fintech #programming 
-#datascience #youtube  #education #skills #motivation
+#datascience #youtube  #education #skills #motivation #finance #investment #tradingmodels
+#riskassessment #dataanalysis #quantitativefinance #investmentdecisions #youtubeshorts #analyticalskills 
+#quantitativeanalyst #pythonprogramming #fintech #programming #datascience #youtube #education #skills #motivation
