@@ -10,8 +10,11 @@ From building robust trading models to conducting risk assessments, we cover it 
 🌐 Stay connected with me on various platforms:
 
 👉 LinkedIn: https://www.linkedin.com/in/analyticalharry/
+
 👉 GitHub: https://github.com/AnalyticalHarry
+
 👉 Replit: https://replit.com/@AnalyticalHarry
+
 👉 TikTok: https://www.tiktok.com/@analyticalharry
 
 🌍 Prepare to expand your knowledge in Quantitative Analysis and gain insights into the world of finance as we embark on this exhilarating educational journey together. 
