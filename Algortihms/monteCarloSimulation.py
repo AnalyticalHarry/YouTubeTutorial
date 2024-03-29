@@ -5,10 +5,6 @@ import yfinance as yf
 
 nvda_data = yf.download('NVDA', period='5y')
 
-
-
-
-
 nvda_data['Daily Return'] = nvda_data['Adj Close'].pct_change()
 # number of simulations and trading days
 n_simulations = 2000
