@@ -6,18 +6,18 @@ Discover the incredible potential of Quantitative Analysis in solving complex fi
 
 Don't miss out on the action! Smash that LIKE button and SUBSCRIBE to our channel to stay up-to-date with the latest content on Quantitative Analysis. 
 
-# Learn from my post: 
+### Learn from my post: 
 
 LinkedIn: https://www.linkedin.com/in/analyticalharry/
 
-# Learn from my repo
+### Learn from my repo
 
 GitHub: https://github.com/AnalyticalHarry
 
-# Learn from my tiktok clip
+### Learn from my tiktok clip
 
 TikTok: https://www.tiktok.com/@analyticalharry
 
-# Learn from my youtube channel 
+### Learn from my youtube channel 
 
 YouTube: https://www.youtube.com/@AnalyticalHarry
